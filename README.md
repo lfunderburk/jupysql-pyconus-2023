@@ -1,5 +1,7 @@
 # jupysql-pyconus-2023
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfunderburk/jupysql-pyconus-2023/main?labpath=presentation%2Fjupysql-lighting-talk.ipynb)
+
 Lighting talk: Catherin Devlin, Laura Funderburk
 
 ### Note about the data
