@@ -1,0 +1,6 @@
+jupysql
+duckdb-engine
+seaborn
+matplotlib
+kaggle
+ipywidgets
